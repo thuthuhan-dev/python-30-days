@@ -29,7 +29,7 @@ The Euclidean distance exercise needed more focus. It's the straight-line distan
 - distance = √(8² + 5²) = √89 ≈ 9.43
 - In Python: `((x2 - x1) ** 2 + (y2 - y1) ** 2) ** 0.5`
 
-Open question: I imported `sqrt` from `math` but used `** 0.5`. I want to understand modules better on Day 12.
+   Open question: is there a simpler way to take a square root? I'll learn about modules on Day 12.
 
 ## My own example
 I used `%` to check if a number is even:
