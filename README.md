@@ -9,7 +9,7 @@ I'm a second-year student building my skills for freelancing and my own projects
 | Day | Topic | Status |
 |-----|-------|--------|
 | 01 | Introduction | ✅ |
-| 02 | Variables, built-in functions | ⬜ |
+| 02 | Variables, built-in functions | ✅ |
 | 03 | Operators | ⬜ |
 | 04 | Strings | ⬜ |
 | 05 | Lists | ⬜ |
