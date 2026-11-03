@@ -11,7 +11,7 @@ I'm a second-year student building my skills for freelancing and my own projects
 | 01 | Introduction | ✅ |
 | 02 | Variables, built-in functions | ✅ |
 | 03 | Operators | ✅ |
-| 04 | Strings | ⬜ |
+| 04 | Strings | ✅ |
 | 05 | Lists | ⬜ |
 | 06 | Tuples | ⬜ |
 | 07 | Sets | ⬜ |
