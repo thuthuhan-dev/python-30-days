@@ -13,7 +13,7 @@ I'm a second-year student building my skills for freelancing and my own projects
 | 03 | Operators | ✅ |
 | 04 | Strings | ✅ |
 | 05 | Lists | ✅ |
-| 06 | Tuples | ⬜ |
+| 06 | Tuples | ✅ |
 | 07 | Sets | ⬜ |
 | 08 | Dictionaries | ⬜ |
 | 09 | Conditionals | ⬜ |
