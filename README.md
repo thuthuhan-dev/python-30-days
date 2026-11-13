@@ -15,7 +15,7 @@ I'm a second-year student building my skills for freelancing and my own projects
 | 05 | Lists | ✅ |
 | 06 | Tuples | ✅ |
 | 07 | Sets | ✅ |
-| 08 | Dictionaries | ⬜ |
+| 08 | Dictionaries | ✅ |
 | 09 | Conditionals | ⬜ |
 | 10 | Loops | ⬜ |
 | 11 | Functions | ⬜ |
